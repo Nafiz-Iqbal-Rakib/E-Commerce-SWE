@@ -1,0 +1,4 @@
+=== Payment Feature ===
+- User can pay for the order using online payment methods
+- Payment confirmation is generated after successful transaction
+- Payment status is updated in user account
